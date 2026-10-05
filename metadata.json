@@ -1,6 +1,6 @@
 {
   "name": "ขอโทษนะคนดี - For My Palmy 🎀",
-  "description": "เว็บไซต์ง้อแฟนสำหรับ ปาล์มมี่ สุดที่รัก พร้อมการ์ดขอโทษออนไลน์ แปะสติกเกอร์คิตตี้สุดน่ารัก บันทึกขึ้น Google Drive และฟังเพลง Day One - PUN",
+  "description": "ง้อแฟนสำหรับ ปาล์มมี่ สุดที่รัก ",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"

@@ -59,7 +59,7 @@ export const EntryOverlay: React.FC<EntryOverlayProps> = ({ onEnter }) => {
             ถึง... คุณปาล์มมี่ 🎀
           </h1>
           <p className="text-sm text-gray-600 leading-relaxed max-w-xs mx-auto">
-            มีคนคนหนึ่งสำนึกผิดมากๆ... อยากส่งเพลงและความในใจมาขอโทษคนดีของเค้า
+            มีคนคนหนึ่งสำนึกผิดมากๆ... อยากส่งเพลงและความในใจมาขอโทษ
           </p>
         </div>
 
@@ -74,7 +74,7 @@ export const EntryOverlay: React.FC<EntryOverlayProps> = ({ onEnter }) => {
             <Heart className="w-5 h-5 fill-white animate-pulse" />
           </button>
           <p className="text-[11px] text-pink-500 mt-2 font-medium">
-            (กดแล้วเพลง Day One - PUN จะเริ่มเล่นอัตโนมัตินะคะ 🎵)
+            (กดเปิดเพลง 🎵)
           </p>
         </div>
       </div>

@@ -18,6 +18,7 @@ const PLEA_MESSAGES = [
   'คิดถึงรอยยิ้มของปาล์มมี่ที่สุด 😭',
   'เค้ารักปาล์มมี่คนเดียวในโลกเลยนะ 💖',
   'กดปุ่มสีชมพูข้างๆ เถอะน้า ขอร้องงง 🙏',
+  'เทอออย่าทำงี้ คืนดีกันน้าา',
 ];
 
 export const ForgivenessGame: React.FC<ForgivenessGameProps> = ({ onForgiven }) => {
