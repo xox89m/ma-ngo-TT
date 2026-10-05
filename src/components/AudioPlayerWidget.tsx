@@ -125,7 +125,7 @@ export const AudioPlayerWidget: React.FC<AudioPlayerWidgetProps> = ({ autoPlaySt
             <div className="flex items-center gap-1.5">
               <span className="text-[11px] font-extrabold uppercase tracking-wider text-rose-600 bg-rose-100 px-2.5 py-0.5 rounded-full inline-flex items-center gap-1">
                 <Music className="w-3 h-3 text-rose-500" />
-                DAY ONE
+                DAY ONE (STRIPPED)
               </span>
               <span className="text-xs text-pink-600 font-bold">PUN (ปัญ)</span>
             </div>
@@ -155,7 +155,7 @@ export const AudioPlayerWidget: React.FC<AudioPlayerWidgetProps> = ({ autoPlaySt
         <div className="mb-3 bg-pink-100/90 border border-pink-300 rounded-2xl p-2.5 text-center flex items-center justify-center gap-2">
           <Sparkles className="w-4 h-4 text-pink-600 animate-spin" />
           <span className="text-xs font-bold text-pink-900">
-            แตะปุ่มสีชมพูด้านบนเพื่อฟังเพลง <strong>Day One - PUN</strong> ได้ทันทีค่ะ 🎶
+            แตะปุ่มสีชมพูด้านบนเพื่อฟังเพลง <strong>Day One (Stripped) - PUN</strong> ได้ทันทีค่ะ 🎶
           </span>
         </div>
       )}
@@ -171,8 +171,8 @@ export const AudioPlayerWidget: React.FC<AudioPlayerWidgetProps> = ({ autoPlaySt
           id="youtube-day-one"
           width="100%"
           height="100%"
-          src="https://www.youtube.com/embed/k_l7k0h3X1Y?enablejsapi=1&autoplay=1&playsinline=1&rel=0&iv_load_policy=3&modestbranding=1"
-          title="PUN - DAY ONE"
+          src="https://www.youtube.com/embed/Fj-E_L_0m38?enablejsapi=1&autoplay=1&playsinline=1&rel=0&iv_load_policy=3&modestbranding=1"
+          title="PUN - DAY ONE (STRIPPED)"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
           className="w-full h-full border-0"
@@ -235,7 +235,7 @@ export const AudioPlayerWidget: React.FC<AudioPlayerWidgetProps> = ({ autoPlaySt
           <div className="flex items-center justify-between font-bold text-pink-800">
             <span>🎤 เนื้อเพลง Day One - PUN (ท่อนที่มีความหมายถึงปาล์มมี่)</span>
             <a
-              href="https://www.youtube.com/watch?v=k_l7k0h3X1Y"
+              href="https://www.youtube.com/watch?v=Fj-E_L_0m38"
               target="_blank"
               rel="noopener noreferrer"
               className="text-pink-600 underline flex items-center gap-1 text-[11px]"

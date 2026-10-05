@@ -162,11 +162,11 @@ export const GitHubModal: React.FC<GitHubModalProps> = ({ isOpen, onClose, cardD
 
     <!-- MUSIC PLAYER FOR DAY ONE - PUN -->
     <div class="music-card">
-      <div class="music-title">🎵 เพลงแทนใจ: PUN - DAY ONE</div>
+      <div class="music-title">🎵 เพลงแทนใจ: PUN - DAY ONE (STRIPPED)</div>
       <div class="video-wrap">
-        <iframe width="100%" height="220" src="https://www.youtube.com/embed/k_l7k0h3X1Y?autoplay=1&playsinline=1" title="PUN - DAY ONE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="220" src="https://www.youtube.com/embed/Fj-E_L_0m38?autoplay=1&playsinline=1" title="PUN - DAY ONE (STRIPPED)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      <p style="font-size: 12px; color: #DB2777;">(กดเตรงนี้ล่นเพลง 🎶)</p>
+      <p style="font-size: 12px; color: #DB2777;">(กดเล่นเพลง Day One อะคูสติกเวอร์ชันนี้ได้เลยน้า 🎶)</p>
     </div>
 
     <!-- HEARTFELT APOLOGY LETTER -->
@@ -202,7 +202,7 @@ export const GitHubModal: React.FC<GitHubModalProps> = ({ isOpen, onClose, cardD
       'ยอมให้ตีเบาๆ 3 ทีเลย 😿',
       'เค้าสัญญาจะเป็นแฟนที่ดีที่สุด 🤞',
       'คิดถึงรอยยิ้มของปาล์มมี่ที่สุด 😭',
-      'กดปุ่มสีชมพูด้านบนเถอะนะคนดี 🥺'
+      'กดปุ่มสีชมพูด้านบนเถอะนะคนดี 🥺',
       'เทอออย่าทำงี้ คืนดีกันน้าา',
     ];
     var pIdx = 0;
